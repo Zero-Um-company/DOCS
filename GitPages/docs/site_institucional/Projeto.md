@@ -1,12 +1,12 @@
-## 2. Visão Geral do Projeto
+## Visão Geral do Projeto
 
-### 2.1 Organização do Projeto
+### Organização do Projeto
 | Papel           | Responsável                                        | Participantes                                 |
 |-----------------|----------------------------------------------------|-----------------------------------------------|
 | Desenvolvedores | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Arthur Sousa](https://github.com/artrsousa1) |
 | Gerência        | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Luan Morais](https://github.com/luanmoraisx) |
 
-### 2.2 Iterações do Projeto
+### Iterações do Projeto
 | Sprint | Produto(Entrega)                              | Data Início | Data Fim   |
 | ------ | --------------------------------------------- | ----------- | ---------- |
 | 1      | Definição do Produto e Visão Geral do Projeto | 08/05/2024  | 22/05/2024 |
@@ -24,7 +24,7 @@
 | 13     | API de Desempenho                             | 23/10/2024  | 05/11/2024 |
 | 14     | Lançamento do Produto ALPHA-GC-1.0            | 06/11/2024  | 19/11/2024 |
 
-### 2.3 Matriz de Comunicação
+### Matriz de Comunicação
 | Descrição            | Envolvidos                 | Peridiocidade | Produtos Gerados                                 |
 | -------------------- | -------------------------- | ------------- | ------------------------------------------------ |
 | Planning             | Equipe de Projeto          | Quinzenal     | Escopo da Sprint                                 |
@@ -33,7 +33,7 @@
 | Reunião de Auditoria | Equipe de Projeto, Cliente | Mensal        | Relatório Geral do Projeto                       |
 | Reunião de Entrega   | Equipe de Projeto, Cliente | Mensal        | Release de Produto |
 
-### 2.4 Gerenciamento de Riscos
+### Gerenciamento de Riscos
 | Risco                        | Probabilidade | Impacto     | Mitigação                                  |
 | ---------------------------- | ------------- | ----------- | ------------------------------------------ |
 | Atraso                       | Alta          | leve        | Contratação de Equipe, Adiamento das datas |
@@ -43,7 +43,7 @@
 | ROI Negativo                 | Quase Certo   | Sem Impacto | Busca por investidores, Monetização de produto |
 
 
-### 2.5 Critérios de Replanejamento
+### Critérios de Replanejamento
 | Critérios                       | Ação                                            |
 | ------------------------------- | ---------------------------------------------------- |
 | Cobertura de custos suspensa    | Projeto parado para auditoria                        |
