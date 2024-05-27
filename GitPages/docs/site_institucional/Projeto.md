@@ -11,7 +11,7 @@
 | ------ | --------------------------------------------- | ----------- | ---------- |
 | 1      | Definição do Produto e Visão Geral do Projeto | 08/05/2024  | 22/05/2024 |
 | 2      | Coleta de Requisitos e Definição do Escopo    | 23/05/2024  | 04/06/2024 |
-| 3      | Produção do Backçpg e MVP                     | 05/06/2024  | 18/06/2024 |
+| 3      | Produção do Backlog e MVP                     | 05/06/2024  | 18/06/2024 |
 | 4      | Configuração de Ambientes                     | 19/06/2024  | 02/07/2024 |
 | 5      | Landing Page e API de Cadastro                | 09/07/2024  | 16/07/2024 |
 | 6      | Lançamento do Produto ALPHA-1.0               | 17/07/2024  | 30/07/2024 |
