@@ -8,7 +8,7 @@ theme:
   name: material
   language: pt-BR
 
-  logo: "assets/logo.png"
+  logo: "assets/1_LOGO_ZERO_UM.png"
 
   features:
     - toc.integrate
