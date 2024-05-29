@@ -1,18 +1,16 @@
-## Processo de desenvolvimento de ER
-
-### Metodologia
+# Metodologia
 | Metodologia | Ciclo de Vida | Processo | FrameWork |
 | ----------- | ------------- | -------- | --------- |
 | Ágil        | Ágil          | XP       | Scrum |
 
-### Fluxo de Trabalho
-#### Sprint Workflow
+# Fluxo de Trabalho
+## Sprint Workflow
 ![WorkFlow](../assets/WorkFlow.png)
 
-#### Issue WorkFlow
+## Issue WorkFlow
 ![IssueWorkFlow](../assets/issue_workflow.png)
 
-#### Abertura de Issue
+## Abertura de Issue
 1. Verificar o caminho para a branch designada na Issue
 
 2. Atualizar o status para in progress
@@ -24,7 +22,7 @@ git checkout CAMINHO_PARA_BRANCH
 
 4. Realizar a Issue
 
-#### Abertura de PR
+## Abertura de PR
 1. Atualizar a branch atual com a main: 
 ```CMD
 git pull origin main --rebase
@@ -45,10 +43,10 @@ git push
 
 4. Atualizar o status da Issue para Ready
 
-### Processo de ER
+# Processo de ER
 ![ER](../assets/ER.png)
 
-### Atividades
+## Atividades
 | Atividade                 | Método                                    | Ferramenta     | Entrega                      |
 | ------------------------- | ----------------------------------------- | -------------- | ---------------------------- |
 | Elicitação e Descoberta   | Barinstorm, Reunião com o Cliente         | Discord e Miro | Lista de Requisitos          |
