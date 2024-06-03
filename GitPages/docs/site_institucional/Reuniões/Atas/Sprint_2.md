@@ -17,6 +17,7 @@ Peíodo: 23/05/2024 - 05/06/2024
 - Objetivo: Finalização das Issues para Review
 - Gravação: [Preencher com link do docs]
 - Pontos a serem discutidos:
+    - Atas de reuniões
     - Requisitos
     - Diagrama de Classes
     - Arquitetura
