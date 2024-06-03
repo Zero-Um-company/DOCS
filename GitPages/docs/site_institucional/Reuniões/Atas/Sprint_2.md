@@ -21,6 +21,7 @@ Peíodo: 23/05/2024 - 05/06/2024
     - Requisitos
     - Diagrama de Classes
     - Arquitetura
+    - MVP
     - Atualização do Cronograma
 
 ## Retrospectiva
@@ -35,4 +36,5 @@ Peíodo: 23/05/2024 - 05/06/2024
         - Review: Requisitos
         - Review: Diagrama de Classes
         - Review: Arquitetura
+        - Review: MVP
         - Review: Atualização do Cronograma
