@@ -15,7 +15,7 @@ Peíodo: 23/05/2024 - 05/06/2024
 - Data: 04/06/2024
 - Participantes: Equipe Dev
 - Objetivo: Finalização das Issues para Review
-- Gravação: [Preencher com link do docs]
+- Gravação: [RS-2](https://drive.google.com/file/d/1wVXSU3-Bxq-YAk5L5eauD7YLAfP3QYGn/view?usp=drive_link)
 - Pontos a serem discutidos:
     - Atas de reuniões
     - Requisitos
