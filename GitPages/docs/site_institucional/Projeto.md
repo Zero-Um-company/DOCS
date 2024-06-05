@@ -7,22 +7,20 @@
 | Gerência        | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Luan Morais](https://github.com/luanmoraisx) |
 
 ### Iterações do Projeto
-| Sprint | Produto(Entrega)                              | Data Início | Data Fim   |
-| ------ | --------------------------------------------- | ----------- | ---------- |
-| 1      | Definição do Produto e Visão Geral do Projeto | 08/05/2024  | 22/05/2024 |
-| 2      | Coleta de Requisitos e Definição do Escopo    | 23/05/2024  | 04/06/2024 |
-| 3      | Produção do Backlog e MVP                     | 05/06/2024  | 18/06/2024 |
-| 4      | Configuração de Ambientes                     | 19/06/2024  | 02/07/2024 |
-| 5      | Landing Page e API de Cadastro                | 09/07/2024  | 16/07/2024 |
-| 6      | Lançamento do Produto ALPHA-1.0               | 17/07/2024  | 30/07/2024 |
-| 7      | API de Login                                  | 31/07/2024  | 13/08/2024 |
-| 8      | API de Login                                  | 14/08/2024  | 27/08/2024 |
-| 9      | API de Gestão                                 | 28/08/2024  | 10/09/2024 |
-| 10     | API de Gestão                                 | 11/09/2024  | 24/09/2024 |
-| 11     | API de Gestão                                 | 25/09/2024  | 08/10/2024 |
-| 12     | API de Desempenho                             | 09/10/2024  | 22/10/2024 |
-| 13     | API de Desempenho                             | 23/10/2024  | 05/11/2024 |
-| 14     | Lançamento do Produto ALPHA-GC-1.0            | 06/11/2024  | 19/11/2024 |
+| Sprint | Produto(Entrega)                                                | Data Início | Data Fim   |
+| ------ | --------------------------------------------------------------- | ----------- | ---------- |
+| 1      | Definição do Produto e Visão Geral do Projeto                   | 08/05/2024  | 22/05/2024 |
+| 2      | Requisitos, Arquitetura, Diagrama de Classes e MVP              | 24/05/2024  | 04/06/2024 |
+| 3      | Configuração de Ambientes                                       | 06/06/2024  | 18/06/2024 |
+| 4      | Lead                                                            | 20/06/2024  | 02/07/2024 |
+| 5      | Form                                                            | 04/07/2024  | 16/07/2024 |
+| 6      | Portfólio                                                       | 18/07/2024  | 30/07/2024 |
+| 7      | Lançamento do [Produto ALPHA-1.0](../site_institucional/MVP.md) | 01/08/2024  | 13/08/2024 |
+| 8      | API Login                                                       | 15/08/2024  | 27/08/2024 |
+| 9      | Colaborador                                                     | 29/08/2024  | 10/09/2024 |
+| 10     | Vendas                                                          | 12/09/2024  | 24/09/2024 |
+| 11     | Vendas                                                          | 26/09/2024  | 08/10/2024 |
+| 12     | Lançamento do [Produto BETA-1.0](../site_institucional/MVP.md)  | 10/10/2024  | 22/10/2024 |
 
 ### Matriz de Comunicação
 | Descrição            | Envolvidos                 | Peridiocidade | Produtos Gerados                                 |
