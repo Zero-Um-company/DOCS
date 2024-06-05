@@ -8,7 +8,7 @@
 |           |            | Tela de Formulário   | [To-Do](../site_institucional/Projeto.md) |
 |           |            | API Produto          | [To-Do](../site_institucional/Projeto.md) |
 |           |            | Tela de Portfólio    | [To-Do](../site_institucional/Projeto.md) |
-| BETA 1.0  | 10/10/2024 | API Login            | [To-Do](../site_institucional/Projeto.md) |
+| BETA 1.0  | 24/10/2024 | API Login            | [To-Do](../site_institucional/Projeto.md) |
 |           |            | Tela de Login        | [To-Do](../site_institucional/Projeto.md) |
 |           |            | API Colaborador      | [To-Do](../site_institucional/Projeto.md) |
 |           |            | Telas de Colaborador | [To-Do](../site_institucional/Projeto.md) |
