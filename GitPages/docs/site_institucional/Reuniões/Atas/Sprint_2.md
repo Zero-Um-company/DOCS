@@ -28,7 +28,7 @@ Peíodo: 23/05/2024 - 05/06/2024
 - Data: 05/06/2024
 - Participantes: Geral
 - Objetivo: Revisão dos trabalhos desenvolvidos na Sprint
-- Gravação: [Preencher com link do docs]
+- Gravação: [Retrospectiva - 2](https://drive.google.com/file/d/11jLZKp6r3vzuGZ5ENrhEHPpeDetkFl6D/view?usp=drive_link)
 - Pontos a serem discutidos:
     - Tutorial de execução da Documentação Local
     - Review: Atualização da Documentação:
