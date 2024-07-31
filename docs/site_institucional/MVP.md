@@ -2,9 +2,9 @@
 
 | Realese   | Data       | Entregas             | Situação                                        |
 | --------- | ---------- | -------------------- | ----------------------------------------------- |
-| ALPHA 1.0 | 22/08/2024 | API Login            | [In-Progress](../site_institucional/Projeto.md) |
-|           |            | Tela de Login        | [To-Do](../site_institucional/Projeto.md)       |
-|           |            | Página Inicial       | [To-Do](../site_institucional/Projeto.md)       |
+| ALPHA 1.0 | 22/08/2024 | API Login            | [Done](../site_institucional/Projeto.md) |
+|           |            | Tela de Login        | [Done](../site_institucional/Projeto.md)       |
+|           |            | Página Inicial       | [Done](../site_institucional/Projeto.md)       |
 |           |            | API Lead             | [To-Do](../site_institucional/Projeto.md)       |
 |           |            | API Form             | [To-Do](../site_institucional/Projeto.md)       |
 |           |            | API Produto          | [To-Do](../site_institucional/Projeto.md)       |

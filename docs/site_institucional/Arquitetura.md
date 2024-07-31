@@ -5,4 +5,4 @@ Foi escolhida a arquitetura de microsservi√ßos para tornar o produto mais escal√
 
 ## Diagrama de Arquitetura
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKCVhBrY=/?moveToViewport=-532,-274,2464,1249&embedId=987414199105" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+![Arquitetura](../assets/arquitetura.png)
