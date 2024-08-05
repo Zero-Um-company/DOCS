@@ -43,7 +43,7 @@ Requisitos não funcionais descrevem características e qualidades do sistema ou
 | RnF06 | Implementação   | Deve garantir que haja regras para lidar com que os dados sensíveis inseridos no banco de dados estejam corretos e válidos. |
 | RnF07 | Implementação   | Deve garantir que a forma de lidar com os dados esteja de acordo com a LGPD                                                 |
 | RnF08 | Desempenho      | Deve garantir que as requisições do servidor não demorem mais que 1 segundo para serem carregados                           |
-| RnF09 | Desempenho      | Deve garantir que a solução suporte o fluxo de usuários e                           |
+| RnF09 | Desempenho      | Deve garantir que a solução suporte o fluxo de usuários                                                                     |
 
 ## 4. User Stories
 
