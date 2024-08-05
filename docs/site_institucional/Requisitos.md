@@ -1,6 +1,6 @@
 # Documento de Requisitos
 
-## 2. Requisitos Funcionais (RF)
+## 1. Requisitos Funcionais (RF)
 Requisitos funcionais descrevem as funcionalidades e as ações que um sistema ou produto deve ser capaz de executar. Eles detalham as tarefas específicas que este produto deve realizar para atender às necessidades do usuário.
 
 |  N°  |                                                   Descrição                                                    |
@@ -30,7 +30,7 @@ Requisitos funcionais descrevem as funcionalidades e as ações que um sistema o
 | RF23 |             O usuário supervisor deverá ser capaz de gerenciar os produtos de sua responsabilidade             |
 | RF24 |            O usuário colaborador deverá ser capaz de gerenciar os produtos de sua responsabilidade             |
 
-## 3. Requisitos não Funcionais
+## 2. Requisitos não Funcionais
 Requisitos não funcionais descrevem características e qualidades do sistema ou produto. Eles estão relacionados a aspectos do URPS+ como usabilidade, confiabilidade, desempenho, suportabilidade, restrições de design, requisitos de implementação, requisitos de interface e requisitos físicos.
 
 | N°    | Tipo            | Descrição                                                                                                                   |
@@ -45,11 +45,11 @@ Requisitos não funcionais descrevem características e qualidades do sistema ou
 | RnF08 | Desempenho      | Deve garantir que as requisições do servidor não demorem mais que 1 segundo para serem carregados                           |
 | RnF09 | Desempenho      | Deve garantir que a solução suporte o fluxo de usuários                                                                     |
 
-## 4. User Stories
+## 3. User Stories
 
-## 5. Backlog
+## 4. Backlog
 
-## 6. Histórico de Versão 
+## 5. Histórico de Versão 
 | Data       | Versão | Descrição                                       | Autor(es)                                                                                                                                                                       |
 | :--------- | :----: | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 05/08/2024 | `0.1`  | Criação do histórico de versão                  | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |
