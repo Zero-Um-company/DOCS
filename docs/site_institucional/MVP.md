@@ -1,4 +1,8 @@
-## Releases
+## User Story Mapping
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKCVhBrA=/?moveToViewport=-863,-419,1724,837&embedId=732204234769" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+## 1. Releases
 
 | Realese   | Data       | Entregas             | Situação                                        |
 | --------- | ---------- | -------------------- | ----------------------------------------------- |
@@ -15,3 +19,8 @@
 |           |            | Telas de Colaborador | [To-Do](../site_institucional/Projeto.md)       |
 |           |            | API Vendas           | [To-Do](../site_institucional/Projeto.md)       |
 |           |            | Telas de Vendas      | [To-Do](../site_institucional/Projeto.md)       |
+
+## 2. Histórico de Versão 
+| Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
+| :--------- | :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 05/08/2024 | `0.1`  | Criação do histórico de versão | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |

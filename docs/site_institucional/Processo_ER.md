@@ -55,3 +55,8 @@ git push
 | Representação             | Prototipagem                              | Figma          | Protótipo de Alta Fidelidade |
 | Verificação e Validação   | DoR e DoD, Checklist, Reunião com Cliente | Jira e Meet    | Definição de DoR e DoD       |
 | Organização e Atualização | USM                                       | Jira           | Backlog |
+
+## 2. Histórico de Versão 
+| Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
+| :--------- | :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 05/08/2024 | `0.1`  | Criação do histórico de versão | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |

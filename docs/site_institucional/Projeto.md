@@ -4,7 +4,7 @@
 | Papel           | Responsável                                        | Participantes                                                                                    |
 | --------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | Gerência        | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Luan Morais](https://github.com/luanmoraisx)                                                    |
-| Desenvolvedores | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Arthur Sousa](https://github.com/artrsousa1) [Samuel Victor](https://github.com/samuelvictorol) |
+| Desenvolvedores | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Arthur Sousa](https://github.com/artrsousa1) <br> [Samuel Victor](https://github.com/samuelvictorol) |
 | Design          | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Pedro Lucas](https://github.com/pedrucax)                                                       |
 
 ### Iterações do Projeto
@@ -51,3 +51,8 @@
 | Falta de qualificação da equipe | Qualificação ou contratação de equipe |
 | Retorno da UnB                  | Replanejamento de horários                           |
 | Tempo estimado irreal           | Replanejamento das datas de entrega |
+
+## 2. Histórico de Versão 
+| Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
+| :--------- | :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 05/08/2024 | `0.1`  | Criação do histórico de versão | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |

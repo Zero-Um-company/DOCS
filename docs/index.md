@@ -79,9 +79,11 @@ Bem-vindo à página de documentação de projetos da Zero Um Company!
 - Navegar para uma branch específica: `git checkout NOME_DA_BRANCH`
 - Criar uma nova branch: `git checkout -b "NOME_DA_BRANCH"`
 
-## 3. Descrição
+## 3. Histórico de Versão 
+| Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
+| :--------- | :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 05/08/2024 | `0.1`  | Criação do histórico de versão | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |
 
-Local de armazenamento de toda a documentação de projetos de sotware da empresa.
 
 
 

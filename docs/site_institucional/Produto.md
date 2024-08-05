@@ -34,3 +34,8 @@ Facilitar o processo de captação e gestão de leads e possibilitar um controle
 | Servidor       | [AWS](https://us-east-2.console.aws.amazon.com/console/home?nc2=h_ct&region=us-east-2&src=header-signin#) |
 | Testes         | [PYtest](https://docs.pytest.org/en/latest/contents.html)                                                 |
 | Documentação   | [GitPages](https://github.com/Zero-Um-company/DOCS)                                                       |
+
+## 2. Histórico de Versão 
+| Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
+| :--------- | :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 05/08/2024 | `0.1`  | Criação do histórico de versão | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |
