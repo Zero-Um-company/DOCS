@@ -5,7 +5,7 @@ Foi escolhida a arquitetura de microsserviços para tornar o produto mais escal�
 
 ## 2. Diagrama de Arquitetura
 
-![Arquitetura](../assets/arquitetura.png)
+![Arquitetura](../assets/Arquitetura.png)
 
 ## 3. Histórico de Versão 
 | Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
