@@ -86,66 +86,94 @@
 |                                       | CA-07 - Gerenciamento de Formulários e Leads | FE-20-FRONT-**VISITANTE** - Formulário                             | **RF12**              | US-36 | Como Visitante, eu gostaria de ter acesso à um formulário de cadastro de um produto para que eu possa deixar minhas informações de contato |
 |                                       | CA-08 - Controle de Formulários e Leads      | FE-21-FRONT-**GERENCIAR PRODUTOS** - Gerenciar formulários         | **RF05**              | US-37 | Como Usuário, em gerenciar produtos, eu gostaria de ter acesso aos formulários de uma produto para gerenciar formulários cadastrados       |
 |                                       |                                              | FE-22-FRONT-**GERENCIAR FORMULÁRIOS** - Gerenciar leads            | **RF06**              | US-38 | Como Usuário, em gerenciar formulários, eu gostaria de ter acesso aos Leads de um formulário para gerenciar leads cadastrados              |
+=======
+| EP-02 - Gestão de Acesso              | CA-03 - Gerenciamento de acesso              | FE-05-BACK-Login                                                   | **RF14**              | US-11 | Como Visitante, eu gostaria de validar minhas credenciais para ter acesso à área protegida do sistema                                      |
+|                                       |                                              | FE-06-BACK/FRONT-Recuperação de credenciais                        | **RF15**              | US-12 | Como Usuário, eu gostaria de recuperar minhas credenciais para acessar novamente o sistema                                                 |
+|                                       |                                              | FE-07-FRONT-Alteração de informações pessoais                      | **RF16**              | US-13 | Como Usuário, eu gostaria de alterar meus dados para atualizar informações antigas                                                         |
+|                                       | CA-04 - Controle de acesso                   | FE-08-BACK-Segmentar conteúdo mostrado por Usuário e Visitante     | **RF09**              | US-14 | Como Usuário, eu gostaria de ter verificação de credenciais para que somente pessoas autorizadas realizem funções sensíveis                |
+|                                       |                                              | FE-09-FRONT-**VISITANTE** - Página inicial                         | **RF10**              | US-15 | Como Visitante, eu gostaria de ter acesso a uma página inicial para que eu possa acessar as principais informações da empresa              |
+|                                       |                                              | FE-10-FRONT-**VISITANTE** - Produtos                               | **RF11**              | US-16 | Como Visitante, eu gostaria de ter acesso ao portfólio de produtos para que eu possa avaliar as opções                                     |
+|                                       |                                              | FE-11-FRONT-**VISITANTE** - Tela de login                          | **RF13**              | US-17 | Como Visitante, eu gostaria de ter acesso à tela de login para que eu possa me autenticar no sistema                                       |
+| EP-03 - Gestão de produtos            | CA-05 - Gerenciamento de produto             | FE-12-BACK-Implementar tipo produto                                | **RF02**              | US-18 | Como Usuário, eu gostaria de cadastrar um produto para apresentar aos visitantes                                                           |
+|                                       |                                              |                                                                    |                       | US-19 | Como Usuário, eu gostaria de editar um produto já cadastrado para atualizar informações                                                    |
+|                                       |                                              |                                                                    |                       | US-20 | Como Usuário, eu gostaria de listar os produtos cadastrados para ter acesso facilitado                                                     |
+|                                       |                                              |                                                                    |                       | US-21 | Como Usuário, eu gostaria de deletar um produto cadastrado para retirar eventuais duplicações                                              |
+|                                       |                                              | FE-13-FRONT-**ADMINISTRADOR** - Gerenciar produtos                 | **RF18**              | US-22 | Como Administrador, eu gostaria de ter acesso à área de produtos para gerenciar produtos cadastrados                                       |
+|                                       | CA-05 - Gerenciamento de produto             | FE-14-FRONT-**SUPERVISOR** - Gerenciar produtos                    | **RF20**              | US-23 | Como Supervisor, eu gostaria de ter acesso à área de produtos para gerenciar meus produtos cadastrados                                     |
+|                                       | CA-05 - Gerenciamento de produto             | FE-15-FRONT-**COLABORADOR** - Gerenciar produtos                   | **RF21**              | US-24 | Como Colaborador, eu gostaria de ter acesso à área de produtos para gerenciar meus produtos cadastrados                                    |
+|                                       | CA-06 - Controle de Produto                  | FE-16-BACK-Identificar a qual usuário pertence determinado produto | **RF07**              | US-25 | Como Administrador, eu gostaria de designar responsáveis para produtos afim de demandar atividades                                         |
+|                                       |                                              |                                                                    |                       | US-26 | Como Supervisor, eu gostaria de designar responsáveis para produtos afim de demandar atividades para minha equipe                          |
+| EP-04 - Gestão de formulários e leads | CA-07 - Gerenciamento de Formulários e Leads | FE-17-BACK-Implementar tipo formulário                             | **RF03**              | US-27 | Como Usuário, eu gostaria de cadastrar um formulário, em um produto, para segmentar os leads nele cadastrados                              |
+|                                       |                                              |                                                                    |                       | US-28 | Como Usuário, eu gostaria de editar um formulário já cadastrado para atualizar informações                                                 |
+|                                       |                                              |                                                                    |                       | US-29 | Como Usuário, eu gostaria de listar os formulários cadastrados para ter acesso facilitado                                                  |
+|                                       |                                              |                                                                    |                       | US-30 | Como Usuário, eu gostaria de deletar um formulário cadastrado para retirar eventuais duplicações                                           |
+|                                       | CA-07 - Gerenciamento de Formulários e Leads | FE-18-BACK-Implementar tipo lead                                   | **RF04**              | US-31 | Como Usuário, eu gostaria de cadastrar um lead, em um formulário, para coletar informações de um Visitante                                 |
+|                                       |                                              |                                                                    |                       | US-32 | Como Usuário, eu gostaria de editar um lead já cadastrado para atualizar informações                                                       |
+|                                       |                                              |                                                                    |                       | US-33 | Como Usuário, eu gostaria de listar os leads cadastrados para ter acesso facilitado                                                        |
+|                                       |                                              |                                                                    |                       | US-34 | Como Usuário, eu gostaria de deletar um lead cadastrado para retirar eventuais duplicações                                                 |
+|                                       | CA-07 - Gerenciamento de Formulários e Leads | FE-19-FRONT-**VISITANTE** - Formulário                             | **RF12**              | US-35 | Como Visitante, eu gostaria de ter acesso à um formulário de cadastro de um produto para que eu possa deixar minhas informações de contato |
+|                                       | CA-08 - Controle de Formulários e Leads      | FE-20-FRONT-**GERENCIAR PRODUTOS** - Gerenciar formulários         | **RF05**              | US-36 | Como Usuário, em gerenciar produtos, eu gostaria de ter acesso aos formulários de uma produto para gerenciar formulários cadastrados       |
+|                                       |                                              | FE-21-FRONT-**GERENCIAR FORMULÁRIOS** - Gerenciar leads            | **RF06**              | US-37 | Como Usuário, em gerenciar formulários, eu gostaria de ter acesso aos Leads de um formulário para gerenciar leads cadastrados              |
+
 
 ## Personas
 
 ### Visitantes
 | N°    | Users Stories                                                                                                                              |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| US-12 | Como Visitante, eu gostaria de ter acesso a uma página inicial para que eu possa acessar as principais informações da empresa              |
-| US-13 | Como Visitante, eu gostaria de poder me cadastrar como lead para que eu possa enviar informações de contato para a empresa                 |
-| US-14 | Como Visitante, eu gostaria de ter acesso ao portfólio de produtos para que eu possa avaliar as opções                                     |
-| US-15 | Como Visitante, eu gostaria de ter acesso à tela de login para que eu possa me autenticar no sistema                                       |
-| US-16 | Como Visitante, eu gostaria de validar minhas credenciais para ter acesso à área protegida do sistema                                      |
+| US-11 | Como Visitante, eu gostaria de validar minhas credenciais para ter acesso à área protegida do sistema                                      |
+| US-15 | Como Visitante, eu gostaria de ter acesso a uma página inicial para que eu possa acessar as principais informações da empresa              |
+| US-16 | Como Visitante, eu gostaria de ter acesso ao portfólio de produtos para que eu possa avaliar as opções                                     |
+| US-17 | Como Visitante, eu gostaria de ter acesso à tela de login para que eu possa me autenticar no sistema                                       |
 | US-35 | Como Visitante, eu gostaria de ter acesso à um formulário de cadastro de um produto para que eu possa deixar minhas informações de contato |
 
 ### Usuários
-| N°    | Users Stories                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| US-01 | Como Usuário, eu gostaria de cadastrar um novo usuário para que outras pessoas da equipe possam ter credenciais de acesso            |
-| US-02 | Como Usuário, eu gostaria de editar um usuário já cadastrado para atualizar informações                                              |
-| US-03 | Como Usuário, eu gostaria de listar os usuários cadastrados para ter acesso facilitado                                               |
-| US-04 | Como Usuário, eu gostaria de deletar um usuário cadastrado para retirar eventuais duplicações                                        |
-| US-11 | Como Usuário, eu gostaria de ter verificação de credenciais para que somente pessoas autorizadas realizem funções sensíveis          |
-| US-17 | Como Usuário, eu gostaria de recuperar minhas credenciais para acessar novamente o sistema                                           |
-| US-18 | Como Usuário, eu gostaria de alterar meus dados para atualizar informações antigas                                                   |
-| US-19 | Como Usuário, eu gostaria de cadastrar um produto para apresentar aos visitantes                                                     |
-| US-20 | Como Usuário, eu gostaria de editar um produto já cadastrado para atualizar informações                                              |
-| US-21 | Como Usuário, eu gostaria de listar os produtos cadastrados para ter acesso facilitado                                               |
-| US-22 | Como Usuário, eu gostaria de deletar um produto cadastrado para retirar eventuais duplicações                                        |
-| US-27 | Como Usuário, eu gostaria de cadastrar um formulário, em um produto, para segmentar os leads nele cadastrados                        |
-| US-28 | Como Usuário, eu gostaria de editar um formulário já cadastrado para atualizar informações                                           |
-| US-29 | Como Usuário, eu gostaria de listar os formulários cadastrados para ter acesso facilitado                                            |
-| US-30 | Como Usuário, eu gostaria de deletar um formulário cadastrado para retirar eventuais duplicações                                     |
-| US-31 | Como Usuário, eu gostaria de cadastrar um lead, em um formulário, para coletar informações de um Visitante                           |
-| US-32 | Como Usuário, eu gostaria de editar um lead já cadastrado para atualizar informações                                                 |
-| US-33 | Como Usuário, eu gostaria de listar os leads cadastrados para ter acesso facilitado                                                  |
-| US-34 | Como Usuário, eu gostaria de deletar um lead cadastrado para retirar eventuais duplicações                                           |
-| US-36 | Como Usuário, em gerenciar produtos, eu gostaria de ter acesso aos formulários de uma produto para gerenciar formulários cadastrados |
-| US-37 | Como Usuário, em gerenciar formulários, eu gostaria de ter acesso aos Leads de um formulário para gerenciar leads cadastrados       |
+| N°    | Users Stories                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| US-01 | Como Usuário, eu gostaria de cadastrar um novo usuário para que outras pessoas da equipe possam ter credenciais de acesso                  |
+| US-02 | Como Usuário, eu gostaria de editar um usuário já cadastrado para atualizar informações                                                    |
+| US-03 | Como Usuário, eu gostaria de listar os usuários cadastrados para ter acesso facilitado                                                     |
+| US-04 | Como Usuário, eu gostaria de deletar um usuário cadastrado para retirar eventuais duplicações                                              |
+| US-12 | Como Usuário, eu gostaria de recuperar minhas credenciais para acessar novamente o sistema                                                 |
+| US-13 | Como Usuário, eu gostaria de alterar meus dados para atualizar informações antigas                                                         |
+| US-14 | Como Usuário, eu gostaria de ter verificação de credenciais para que somente pessoas autorizadas realizem funções sensíveis                |
+| US-18 | Como Usuário, eu gostaria de cadastrar um produto para apresentar aos visitantes                                                           |
+| US-19 | Como Usuário, eu gostaria de editar um produto já cadastrado para atualizar informações                                                    |
+| US-20 | Como Usuário, eu gostaria de listar os produtos cadastrados para ter acesso facilitado                                                     |
+| US-21 | Como Usuário, eu gostaria de deletar um produto cadastrado para retirar eventuais duplicações                                              |
+| US-27 | Como Usuário, eu gostaria de cadastrar um formulário, em um produto, para segmentar os leads nele cadastrados                              |
+| US-28 | Como Usuário, eu gostaria de editar um formulário já cadastrado para atualizar informações                                                 |
+| US-29 | Como Usuário, eu gostaria de listar os formulários cadastrados para ter acesso facilitado                                                  |
+| US-30 | Como Usuário, eu gostaria de deletar um formulário cadastrado para retirar eventuais duplicações                                           |
+| US-31 | Como Usuário, eu gostaria de cadastrar um lead, em um formulário, para coletar informações de um Visitante                                 |
+| US-32 | Como Usuário, eu gostaria de editar um lead já cadastrado para atualizar informações                                                       |
+| US-33 | Como Usuário, eu gostaria de listar os leads cadastrados para ter acesso facilitado                                                        |
+| US-34 | Como Usuário, eu gostaria de deletar um lead cadastrado para retirar eventuais duplicações                                                 |
+| US-36 | Como Usuário, em gerenciar produtos, eu gostaria de ter acesso aos formulários de uma produto para gerenciar formulários cadastrados       |
+| US-37 | Como Usuário, em gerenciar formulários, eu gostaria de ter acesso aos Leads de um formulário para gerenciar leads cadastrados              |
 
 #### Administrador
-| N°    | Users Stories                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| US-05 | Como Administrador, eu gostaria de ter acesso global para gerenciar e controlar o sistema                                            |
-| US-08 | Como Administrador, eu gostaria de criar qualquer tipo de usuário para designar funções da equipe                                    |
-| US-09 | Como Administrador, eu gostaria de designar responsáveis para colaboradores afim de demandar atividades                              |
-| US-23 | Como Administrador, eu gostaria de ter acesso à área de produtos para gerenciar produtos cadastrados                                 |
-| US-24 | Como Administrador, eu gostaria de designar responsáveis para produtos afim de demandar atividades                                   |
+| N°    | Users Stories                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| US-05 | Como Administrador, eu gostaria de ter acesso global para gerenciar e controlar o sistema                                                  |
+| US-08 | Como Administrador, eu gostaria de criar qualquer tipo de usuário para designar funções da equipe                                          |
+| US-09 | Como Administrador, eu gostaria de designar responsáveis para colaboradores afim de demandar atividades                                    |
+| US-22 | Como Administrador, eu gostaria de ter acesso à área de produtos para gerenciar produtos cadastrados                                       |
+| US-25 | Como Administrador, eu gostaria de designar responsáveis para produtos afim de demandar atividades                                         |
 
 #### Supervisor
-| N°    | Users Stories                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| US-06 | Como Supervisor, eu gostaria de ter acesso à área de supervisor para exercer minhas funções                                          |
-| US-10 | Como Supervisor, eu gostaria de criar colaboradores para que outras pessoas da equipe possam ter credenciais de acesso               |
-| US-25 | Como Supervisor, eu gostaria de ter acesso à área de produtos para gerenciar meus produtos cadastrados                               |
-| US-26 | Como Supervisor, eu gostaria de designar responsáveis para produtos afim de demandar atividades para minha equipe                    |
+| N°    | Users Stories                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| US-06 | Como Supervisor, eu gostaria de ter acesso à área de supervisor para exercer minhas funções                                                |
+| US-10 | Como Supervisor, eu gostaria de criar colaboradores para que outras pessoas da equipe possam ter credenciais de acesso                     |
+| US-23 | Como Supervisor, eu gostaria de ter acesso à área de produtos para gerenciar meus produtos cadastrados                                     |
+| US-26 | Como Supervisor, eu gostaria de designar responsáveis para produtos afim de demandar atividades para minha equipe                          |
 
 #### Colaborador
-| N°    | Users Stories                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| US-07 | Como Colaborador, eu gostaria de ter acesso à área de colaborador para exercer minhas funções                                        |
-| US-27 | Como Colaborador, eu gostaria de ter acesso à área de produtos para gerenciar meus produtos cadastrados                              |
+| N°    | Users Stories                                                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| US-07 | Como Colaborador, eu gostaria de ter acesso à área de colaborador para exercer minhas funções                                              |
+| US-24 | Como Colaborador, eu gostaria de ter acesso à área de produtos para gerenciar meus produtos cadastrados                                    |
 
 ## 6. Histórico de Versão 
 | Data       | Versão | Descrição                                      | Autor(es)                                                                                                                                                                       |

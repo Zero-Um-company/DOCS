@@ -15,10 +15,9 @@ Uma descrição clara e concisa do que é o problema. Exemplo: "Sempre fico frus
 
 Uma descrição clara e concisa do que você gostaria que acontecesse.
 
-**Descreva as alternativas que você considerou**
+**Critérios de aceitação**
 
-Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você tenha considerado.
-
-**Contexto adicional**
-
-Adicione qualquer outro contexto ou capturas de tela relacionados à solicitação de funcionalidade aqui.
+- [ ]
+- [ ]
+- [ ]
+- [ ] 
