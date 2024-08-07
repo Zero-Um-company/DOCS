@@ -8,38 +8,32 @@
 | Design          | [Lucas Antunes](https://github.com/LucasGSAntunes) | [Pedro Lucas](https://github.com/pedrucax)                                                       |
 
 ### Iterações do Projeto
-| Sprint | Produto(Entrega)                                                | Data Início | Data Fim   |
-| ------ | --------------------------------------------------------------- | ----------- | ---------- |
-| 1      | Definição do Produto e Visão Geral do Projeto                   | 08/05/2024  | 22/05/2024 |
-| 2      | Requisitos, Arquitetura, Diagrama de Classes e MVP              | 24/05/2024  | 04/06/2024 |
-| 3      | Configuração de Ambientes                                       | 06/06/2024  | 18/06/2024 |
-| 4      | Login_API,                                                      | 27/06/2024  | 11/07/2024 |
-| 5      | Telas protegidas, Protótipo de telas públicas                   | 18/07/2024  | 01/08/2024 |
-| 6      | Produto_API, Form_API, Lead_API                                 | 08/08/2024  | 22/08/2024 |
-| 7      | Lançamento do [Produto ALPHA-1.0](../site_institucional/MVP.md) | 22/08/2024  | 27/08/2024 |
-| 8      | API Operacional                                                 | 29/08/2024  | 12/09/2024 |
-| 9      | API Operacional                                                 | 19/09/2024  | 03/10/2024 |
-| 10     | API Operacional                                                 | 10/10/2024  | 24/10/2024 |
-| 11     | API Relatório                                                   | 31/10/2024  | 14/11/2024 |
-| 12     | API Relatório                                                   | 21/11/2024  | 05/12/2024 |
-| 13     | Lançamento do [Produto BETA-1.0](../site_institucional/MVP.md)  | 05/12/2024  | 20/12/2024 |
+| Sprint | Produto(Entrega)              | Data Início | Data Fim   |
+| ------ | ----------------------------- | ----------- | ---------- |
+| 0      | Alinhamento e Setup           | 06/08/2024  | 20/08/2024 |
+| 1      | Gestão de usuários            | 27/08/2024  | 10/09/2024 |
+| 2      | Gerenciamento de acesso       | 17/09/2024  | 01/10/2024 |
+| 3      | Controle de acesso            | 08/10/2024  | 22/10/2024 |
+| 4      | Gestão de produto             | 29/10/2024  | 12/11/2024 |
+| 5      | Gestão de formulários e Leads | 19/11/2024  | 03/12/2024 |
+| 6      | Lançamento do Produto Alpha   | 04/12/2024  | 20/12/2024 |
 
 ### Matriz de Comunicação
-| Descrição            | Envolvidos                 | Peridiocidade | Produtos Gerados                                 |
-| -------------------- | -------------------------- | ------------- | ------------------------------------------------ |
-| Planning             | Equipe de Projeto          | Quinzenal     | Escopo da Sprint                                 |
-| Reunião de Equipe    | Equipe de Projeto          | Semanal       | Ata de Reunião                                   |
-| Retrospectiva        | Equipe de Projeto          | Quinzenal     | Relatório de Desempenho, Relatório de Pendências |
-| Reunião de Auditoria | Equipe de Projeto, Cliente | Mensal        | Relatório Geral do Projeto                       |
-| Reunião de Entrega   | Equipe de Projeto, Cliente | Mensal        | Release do Produto                               |
+| Descrição            | Envolvidos                 | Peridiocidade    | Produtos Gerados           |
+| -------------------- | -------------------------- | ---------------- | -------------------------- |
+| Planning             | Equipe de Projeto          | Inicio da Sprint | Escopo da Sprint           |
+| Reunião de Equipe    | Equipe de Projeto          | Semanal          | Ata de Reunião             |
+| Retrospectiva        | Equipe de Projeto          | Final da Sprint  | Relatório de Desempenho    |
+| Reunião de Auditoria | Equipe de Projeto, Cliente | Mensal           | Relatório Geral do Projeto |
+| Reunião de Entrega   | Equipe de Projeto, Cliente | Trimestral       | Release do Produto         |
 
 ### Gerenciamento de Riscos
-| Risco                        | Probabilidade | Impacto     | Mitigação                                  |
-| ---------------------------- | ------------- | ----------- | ------------------------------------------ |
-| Atraso                       | Alta          | leve        | Contratação de Equipe, Adiamento das datas |
-| Corte de Financiamento       | Baixa         | Gravíssimo  | Plano de Análise de Qualidade              |
-| Indisponibilidade do cliente | Média         | Leve        | Remarcar reunião                           |
-| Retorno da UnB               | Alta          | Médio       | Adiamento das datas de lançamento          |
+| Risco                        | Probabilidade | Impacto     | Mitigação                                      |
+| ---------------------------- | ------------- | ----------- | ---------------------------------------------- |
+| Atraso                       | Alta          | leve        | Contratação de Equipe, Adiamento das datas     |
+| Corte de Financiamento       | Baixa         | Gravíssimo  | Plano de Análise de Qualidade                  |
+| Indisponibilidade do cliente | Média         | Leve        | Remarcar reunião                               |
+| Retorno da UnB               | Alta          | Médio       | Adiamento das datas de lançamento              |
 | ROI Negativo                 | Quase Certo   | Sem Impacto | Busca por investidores, Monetização de produto |
 
 
@@ -53,6 +47,7 @@
 | Tempo estimado irreal           | Replanejamento das datas de entrega |
 
 ## 2. Histórico de Versão 
-| Data       | Versão | Descrição                      | Autor(es)                                                                                                                                                                       |
-| :--------- | :----: | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 05/08/2024 | `0.1`  | Criação do histórico de versão | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |
+| Data       | Versão | Descrição                         | Autor(es)                                                                                                                                                                       |
+| :--------- | :----: | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 05/08/2024 | `0.1`  | Criação do histórico de versão    | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |
+| 07/08/2024 | `0.2`  | Atualização das datas e iterações | <img src="https://github.com/LucasGSAntunes.png" width="20" height="20" style="border-radius: 50%; vertical-align: middle;"> [Lucas Antunes](https://github.com/LucasGSAntunes) |
